@@ -6,4 +6,10 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input("จำนวนเต็ม n:"))
+
+if n/5 == int
+     print : "Yes"
+else n/5 = float
+     print : "No"
+
