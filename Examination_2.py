@@ -9,7 +9,7 @@
 height = int(input("ความสูงซม:"))
 
 if height  >= 140
-        print "Can Ride"
+        print : "Can Ride"
 else height < 140
-        print "Cannot Ride"
+        print : "Cannot Ride"
 
