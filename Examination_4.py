@@ -11,8 +11,8 @@ weight = float(input("น้ำหนักสินค้า"))
 output = int(input("ค่าจัดส่ง (30, 50, 100)"))
 
 if weight <= 1 kg
-    print "30"
+    print : "30"
 elif weight <= 5 kg
-    print "50"
+    print :  "50"
 else weight > 5 kg
-    print "100"
+    print : "100"
